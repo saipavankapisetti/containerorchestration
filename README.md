@@ -1,1 +1,1 @@
-# containerorchestration
+Docker Swarm is a container orchestration platform that enables the management and deployment of Docker containers across a cluster of machines. It simplifies the orchestration process by providing native clustering and scheduling capabilities, allowing developers to manage multiple containers as a single entity. Docker Swarm ensures high availability, load balancing, and scalability, making it easier to deploy, update, and maintain containerized applications in a distributed environment.
